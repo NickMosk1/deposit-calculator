@@ -1,4 +1,3 @@
-```markdown
 # Deposit Calculator
 
 Веб-приложение для расчета доходности банковских депозитов со сложным процентом.
@@ -37,6 +36,4 @@ npm run dev
 ```bash
 - **Frontend**: http://localhost:3000
 - **Backend API**: http://localhost:8080
-```
-
 ```
